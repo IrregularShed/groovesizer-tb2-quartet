@@ -5,7 +5,9 @@
 ***   by MoShang (Jean Marais) - moshang@groovesizer.com
 ***   Adapted from tutorials by DuaneB at http://rcarduino.blogspot.com
 ***   And the Groovuino library by Gaétan Ro at http://groovuino.blogspot.com
+***
 ***   Mashed the fudge up by Steve for use with PlatformIO, Jan/Feb 2021
+***
 ***   Licensed under a Creative Commons Attribution-ShareAlike 3.0
 ***   AKWF Waveforms by Adventure Kid is licensed under a Creative Commons Attribution 3.0 Unported License.
 ***   Based on a work at http://www.adventurekid.se
